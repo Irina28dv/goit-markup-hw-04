@@ -79,7 +79,7 @@ display: flex;
 gap: 40px;
 }
 .menu-link{
-color: #404bbf;
+color: var(--NAVY-BLUE, #2E2F42);
 display: block;
 font-size: 16px;
 font-weight: 500;
